@@ -1,0 +1,22 @@
+.toolBar{
+    display: flex;
+    justify-content:space-between;
+}
+
+.navLinks {
+    display: flex;
+    gap: 20px;
+}
+.link:hover {
+    color: red;
+    cursor: pointer;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+}
+.btn_red {
+    background-color: red !important;
+    color:black  !important;
+}
