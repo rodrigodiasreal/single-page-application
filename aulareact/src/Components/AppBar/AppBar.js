@@ -16,7 +16,7 @@ function AppBar(){
             <div className ="btn">
                 <Typography href="">criar conta </Typography>
            <Button className="btn_red">Entrar</Button>
-           </div >  
+           </div>  
         
         </toolbar>  
           </>
