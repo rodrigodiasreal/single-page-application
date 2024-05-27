@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "Introdução ao Python",
+        "autor": "Nilo Key",
+        "ano": 2014,
+        "preco":"R$ 59.99",
+        "Imagen": "https://images-na.ssl-images-amazon.com/images/I/41qeEtBu02L.jpg"
+    },
+    {
+        "titulo": "Aprendendo JavaScript",
+        "autor": "Shelley",
+        "ano": 2014,
+        "preco":"R$ 59.99",
+        "Imagen": "https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575222119.jpg"
+    },
+    {
+        "titulo": "Aprendendo Java",
+        "autor": "Oreilly & Assoc",
+        "ano": 2014,
+        "preco":"R$ 59.99",
+        "Imagen": "https://s3.novatec.com.br/capas-ampliadas/capa-ampliada-9788575222119.jpg"
+    }
+]

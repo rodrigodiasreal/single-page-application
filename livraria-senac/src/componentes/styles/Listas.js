@@ -11,4 +11,5 @@ align-items: center
 //de uma li
 export const Item = styled.li`
 list-style:none;
-`
+margin-right: 16px;
+`;
